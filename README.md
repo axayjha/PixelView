@@ -5,7 +5,15 @@ To run the project, run:
 <code>__python3 GUI.py__</code>
 
 
-To install the windows executable package, download installer <a href="https://github.com/axayjha/pixelview/releases/tag/v0.8-alpha">here</a>
+If you run the script directly, you will need to install libraries manually:
+`
+pip3 install pillow opencv-python matplotlib scipy pillow numpy
+`
+
+
+To avoid that, please install using the standalone installer, which has everything packaged in one place.
+
+**Download standalone installer <a href="https://github.com/axayjha/pixelview/releases/tag/v0.8-alpha">here</a>**
 
 _`Note: always run pixelview as admin from startmenu (needed to have permission to open images)`_
 

@@ -5,7 +5,7 @@
 """
 
 @author: Akshay Anand
-<www.akshayjha.co.nr>
+<https://akshayjha.tech>
 <www.GitHub.com/AxayJha>
 <akshayjha@live.in>
 Last modified: 28/04/2017
